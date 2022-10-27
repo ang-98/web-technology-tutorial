@@ -39,3 +39,9 @@
 console.clear();
 console.log("Cleared");
 ```
+
+
+```
+<?php
+    echo "Hello";
+?>
