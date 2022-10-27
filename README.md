@@ -48,5 +48,5 @@ console.log("Cleared");
 ```
 
 ``` js
-    wondow.location.href="../index.html"
+    window.location.href="../index.html"
 ```
