@@ -34,3 +34,8 @@
 </html>
 ```
 
+
+``` javascript
+console.clear();
+console.log("Cleared");
+```
