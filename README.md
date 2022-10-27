@@ -45,3 +45,8 @@ console.log("Cleared");
 <?php
     echo "Hello";
 ?>
+```
+
+``` js
+    window.location.href="../index.html"
+```
