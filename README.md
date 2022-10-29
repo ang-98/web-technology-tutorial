@@ -50,3 +50,7 @@ console.log("Cleared");
 ``` js
     window.location.href="../index.html"
 ```
+
+``` js 
+console.log("Bhattey");
+```
